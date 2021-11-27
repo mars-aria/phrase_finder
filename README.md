@@ -1,0 +1,2 @@
+# phrase_finder
+My phrase_finder() function searches for a self-identifying phrase in 4 large classic texts (The Souls of Black Folk, Jane Eyre, The Strange Case of Dr. Jekyll &amp; Mr. Hyde, and Frankenstein). Standpoint: "So Matilda’s strong young mind continued to grow, nurtured by the voices of all those authors who had sent their books out into the world like ships on the sea. These books gave Matilda a hopeful and comforting message: You are not alone.” ~ from Matilda by Roald Dahl
